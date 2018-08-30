@@ -3,3 +3,4 @@ server/yarn.lock
 
 web-app/node_modules/
 web-app/yarn.lock
+web-app/build/
